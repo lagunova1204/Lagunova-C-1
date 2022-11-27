@@ -1,0 +1,16 @@
+C:\Users\ирина\Desktop\LectionC#\Exemple001\bin\Debug\net6.0\Exemple001.exe
+C:\Users\ирина\Desktop\LectionC#\Exemple001\bin\Debug\net6.0\Exemple001.deps.json
+C:\Users\ирина\Desktop\LectionC#\Exemple001\bin\Debug\net6.0\Exemple001.runtimeconfig.json
+C:\Users\ирина\Desktop\LectionC#\Exemple001\bin\Debug\net6.0\Exemple001.dll
+C:\Users\ирина\Desktop\LectionC#\Exemple001\bin\Debug\net6.0\ref\Exemple001.dll
+C:\Users\ирина\Desktop\LectionC#\Exemple001\bin\Debug\net6.0\Exemple001.pdb
+C:\Users\ирина\Desktop\LectionC#\Exemple001\obj\Debug\net6.0\Exemple001.GlobalUsings.g.cs
+C:\Users\ирина\Desktop\LectionC#\Exemple001\obj\Debug\net6.0\Exemple001.csproj.AssemblyReference.cache
+C:\Users\ирина\Desktop\LectionC#\Exemple001\obj\Debug\net6.0\Exemple001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ирина\Desktop\LectionC#\Exemple001\obj\Debug\net6.0\Exemple001.AssemblyInfoInputs.cache
+C:\Users\ирина\Desktop\LectionC#\Exemple001\obj\Debug\net6.0\Exemple001.AssemblyInfo.cs
+C:\Users\ирина\Desktop\LectionC#\Exemple001\obj\Debug\net6.0\Exemple001.csproj.CoreCompileInputs.cache
+C:\Users\ирина\Desktop\LectionC#\Exemple001\obj\Debug\net6.0\Exemple001.dll
+C:\Users\ирина\Desktop\LectionC#\Exemple001\obj\Debug\net6.0\ref\Exemple001.dll
+C:\Users\ирина\Desktop\LectionC#\Exemple001\obj\Debug\net6.0\Exemple001.pdb
+C:\Users\ирина\Desktop\LectionC#\Exemple001\obj\Debug\net6.0\Exemple001.genruntimeconfig.cache
